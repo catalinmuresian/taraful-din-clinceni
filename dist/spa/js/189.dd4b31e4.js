@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkwebsite_taraful_clinceni"]=globalThis["webpackChunkwebsite_taraful_clinceni"]||[]).push([[189],{189:(e,n,a)=>{a.r(n),a.d(n,{default:()=>h});var i=a(1758);const l={class:"despre-noi"},s=(0,i.Lk)("h1",null,"DESPRE NOI",-1),c=[s];function r(e,n){return(0,i.uX)(),(0,i.CE)("div",l,c)}var t=a(2807);const u={},b=(0,t.A)(u,[["render",r]]),h=b}}]);
